@@ -4,8 +4,13 @@
 
 ---
 
+## 🧠 Project Type
+Data Analysis | SQL | Business Intelligence
+
+---
+
 ## 🎯 Objective
-To analyze retail sales data using SQL and extract insights related to sales, profit, customer performance, and product trends.
+To analyze retail sales data using SQL and extract insights related to sales performance, customer behavior, and product trends.
 
 ---
 
@@ -22,7 +27,7 @@ To analyze retail sales data using SQL and extract insights related to sales, pr
 - SQL (SQLite)
 - Python (Pandas)
 - Jupyter Notebook
-- Matplotlib & Seaborn (for visualization)
+- Data Analysis
 
 ---
 
@@ -32,31 +37,31 @@ To analyze retail sales data using SQL and extract insights related to sales, pr
 - Overall business performance
 
 ### 2. Sales by Region
-- Identified best-performing regions
+- Identified top-performing regions
 
 ### 3. Top Selling Products
-- Highest revenue generating products
+- Highest revenue-generating products
 
 ### 4. Category-wise Analysis
 - Performance of product categories
 
 ### 5. Customer Analysis
-- Top customers by sales contribution
+- Identified top customers
 
 ---
 
 ## 📈 Key Insights
-- Certain regions contribute significantly higher sales
-- Few products generate majority of revenue (Pareto principle)
+- Few products generate majority of revenue
 - Some categories have high sales but low profit
-- Customer segmentation helps identify high-value customers
+- Certain regions outperform others significantly
+- Customer segmentation reveals high-value customers
 
 ---
 
-## 📊 Visualizations
-- Sales distribution charts
-- Category-wise performance graphs
-- Top products bar charts
+## 💡 Business Impact
+- Helps optimize product strategy
+- Improves inventory planning
+- Supports data-driven decision-making
 
 ---
 
@@ -67,6 +72,6 @@ To analyze retail sales data using SQL and extract insights related to sales, pr
 ---
 
 ## 🚀 Conclusion
-This project demonstrates how SQL can be used to extract meaningful business insights and support data-driven decision making.
+This project highlights the importance of SQL in extracting business insights and analyzing large datasets efficiently.
 
 ---
